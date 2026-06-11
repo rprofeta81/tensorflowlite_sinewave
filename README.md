@@ -15,7 +15,7 @@ The primary goals of this project are to:
 
 * development/
 
-  * Jupyter notebook for training and converting the model.
+  * Google colab for training and converting the model.
   * requirements.txt for Python dependencies.
   * Exported TFLite model in .tflite format.
 * deployment/
